@@ -1,1 +1,1 @@
-# raspberry_pi_silkworm_disease
+# Adaboost Model integrated with Raspberry Pi
